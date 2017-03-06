@@ -10,7 +10,8 @@ namespace GitProject1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git");
+            Console.WriteLine("Hello Git")
+            Console.WriteLine("Developement Breanch 2");
             Console.ReadKey();
         }
     }
